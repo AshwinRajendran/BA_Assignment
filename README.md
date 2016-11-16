@@ -1,4 +1,3 @@
-# BA_Assignment1
 # BA_Assignment
 **LDA TOPIC model for Amazon product review "Patio, Lawn and Garden":**
 
