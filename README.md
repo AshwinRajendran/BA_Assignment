@@ -5,7 +5,7 @@ The following document consistes of an LDA topic model for the reviews of the Am
 
 **Data:**
 
-There are a total of 151,254 reviews. We analyze the Text of the Review in this particular model.
+There are a total of 13,272 reviews. We analyze the Text of the Review in this particular model.
 
 **Cleaning corpus:**
 
