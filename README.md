@@ -115,6 +115,6 @@ It might be interesting to note that the Intertopic Distance between Topic 5 and
 
 Click below to view the LDA Topic Modeling Visualization
 
-[Click Here] 
+[Click Here] https://cdn.rawgit.com/AshwinRajendran/BA_Assignment1/master/index.html
 
 
